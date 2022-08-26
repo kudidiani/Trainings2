@@ -34,16 +34,16 @@
 //     return 3 * 50 + 4 * 40 + daysLeft * 30;
 // }
 
-let age = 8;
-let message;
-if(age >= 18){
-    message = 'Adult';
-}
-else {
-    message = 'Child';
-}
-console.log(message);
-// the same with conditonal operator
-let age1 = 18;
-let message1 = (age1 >= 18) ? 'Adult' : 'Child';
-console.log(message1);
+// let age = 8;
+// let message;
+// if(age >= 18){
+//     message = 'Adult';
+// }
+// else {
+//     message = 'Child';
+// }
+// console.log(message);
+// // the same with conditonal operator
+// let age1 = 18;
+// let message1 = (age1 >= 18) ? 'Adult' : 'Child';
+// console.log(message1);
