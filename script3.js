@@ -63,7 +63,7 @@
 // getDrinksWithStep(10,3);
 
 function calculateProfit (amount, percent, period){
-    total = amount;
+    let total = amount;
     for(let i = 0; i < period; i++){
         total +=  total * percent / 100;
     }
